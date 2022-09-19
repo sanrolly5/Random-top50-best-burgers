@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    background-image: url(../images/hamburger.jpg);
+    background-size: cover;
+  }
+  
+  .first {
+    margin-top: 210px;
+    position:absolute;
+    background-color: orange;
+    padding: 40px;
+    width: 360px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+  }
+  .second:hover {
+    background-color: green;
+  }
+  .second {
+    margin-top: 360px;
+    position: absolute;
+    background-color: limegreen;
+    padding: 20px;
+    width: 180px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 22px;
+  }
+  .title{
+    margin-top: 90px;
+    color: orange;
+    font-size:45px;
+    font-family: 'Yeseva One', cursive;
+  }
